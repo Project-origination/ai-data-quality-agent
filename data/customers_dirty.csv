@@ -1,0 +1,13 @@
+customer_id,customer_name,country,email,age,revenue,signup_date
+1,Alpine Retail,Switzerland,contact@alpine-retail.ch,38,12500,2025-01-10
+2,Maison Nova,France,hello@maisonnova.fr,42,9800,2025-02-15
+3,Benelux Direct,Belgium,sales@beneluxdirect.be,35,11100,2025-03-20
+4,Lux Partners,Luxembourg,info@luxpartners.lu,50,15400,2025-04-05
+5,Helvetia Digital,Switzerland,,29,8700,2025-05-11
+5,Helvetia Digital,Switzerland,team@helvetia-digital.ch,29,9100,2025-05-11
+7,Data Horizon,France,contact-datahorizon,31,10200,2025-06-01
+8,Nova Insights,Belgium,contact@novainsights.be,230,13600,2025-06-18
+9,BlueMetric,France,hello@bluemetric.fr,-4,7200,2025-07-02
+10,Insight Works,Frnace,team@insightworks.fr,44,9800,2025-07-15
+11,Enterprise One,Switzerland,finance@enterpriseone.ch,47,250000,2025-08-01
+12,,Luxembourg,unknown@example.com,39,11800,2025-08-12
