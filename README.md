@@ -4,7 +4,7 @@
 
 AI Data Quality Agent is a Python application that profiles CSV and Excel datasets, detects quality issues through deterministic rules, evaluates five quality dimensions, and translates the findings into actionable business recommendations using a **locally hosted Qwen3 4B model**.
 
-Its guiding principle is simple: **Python determines what is wrong; the LLM helps explain why it matters and what to investigate next.** The AI does not make or apply data corrections.
+Its guiding principle is simple: **Python determines what is wrong; the LLM helps explain why it matters and what to investigate next.** 
 
 ![Data Quality Observatory dashboard](screenshots/Data%20quality%20agent%201.JPG)
 
